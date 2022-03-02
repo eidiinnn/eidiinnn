@@ -19,8 +19,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   
 &nbsp;
+
+  [![eidiinnn GitHub stats](https://github-readme-stats.vercel.app/api?username=eidiinnn&show_icons=true&theme=radical)]
+
+  &nbsp;
   
-[![eidiinnn GitHub stats](https://github-readme-stats.vercel.app/api?username=eidiinnn&show_icons=true&theme=radical)](https://github.com/eidiinnn/github-readme-stats) 
-    
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." style="width: 400px">
+
+   
  </div>
 
