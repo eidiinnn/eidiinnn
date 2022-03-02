@@ -21,7 +21,7 @@
   
 &nbsp;
 
-  [![eidiinnn GitHub stats](https://github-readme-stats.vercel.app/api?username=eidiinnn&show_icons=true&theme=radical)]
+  ![eidiinnn GitHub stats](https://github-readme-stats.vercel.app/api?username=eidiinnn&show_icons=true&theme=radical)
   
  </div>
 
