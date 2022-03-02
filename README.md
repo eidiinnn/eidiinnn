@@ -1,10 +1,4 @@
-
-
-<div align="center">
-  
-  
-  # Just a junior dev
-  
+<div align="center"> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -18,10 +12,17 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-&nbsp;
+</div>
 
-  ![eidiinnn GitHub stats](https://github-readme-stats.vercel.app/api?username=eidiinnn&show_icons=true&theme=radical)
+---
+
+- 🔭 I’m currently working on [Fox Home](https://github.com/eidiinnn/Home-page)
+- 🌱 I’m currently learning **more about React**  
+- 💬 Ask me about **JavaScript** 
+- 📫 How to reach me **eduardosilva.pn@gmail.com**
   
- </div>
+
+
+![eidiinnn GitHub stats](https://github-readme-stats.vercel.app/api?username=eidiinnn&show_icons=true&theme=radical)
+  
 
