@@ -2,6 +2,7 @@
 
 <div align="center">
   
+  
   # Just a junior dev
   
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -21,11 +22,6 @@
 &nbsp;
 
   [![eidiinnn GitHub stats](https://github-readme-stats.vercel.app/api?username=eidiinnn&show_icons=true&theme=radical)]
-
-  &nbsp;
   
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." style="width: 400px">
-
-   
  </div>
 
