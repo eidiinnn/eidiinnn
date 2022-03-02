@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
----
+&nbsp;
 
 - 🔭 I’m currently working on [Fox Home](https://github.com/eidiinnn/Home-page)
 - 🌱 I’m currently learning **more about React**  
