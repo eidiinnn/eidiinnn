@@ -1,6 +1,6 @@
 ### Just a junior dev
 - 🔭 I’m currently working on [Fox Home](https://github.com/eidiinnn/Home-page)
-- 🌱 I’m currently learning **more about React**  
+- 🌱 I’m currently learning **TypeScript**  
 - 💬 Ask me about **JavaScript** 
 - 📫 How to reach me **eduardosilva.pn@gmail.com**
 
