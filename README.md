@@ -1,4 +1,4 @@
-### Just a junior dev
+### Just a dev
 - 🔭 I’m currently working on [Fox Home](https://github.com/eidiinnn/Home-page)
 - 🌱 I’m currently learning **TypeScript**  
 - 💬 Ask me about **JavaScript** 
