@@ -1,5 +1,5 @@
 ### Just a dev
-- 🔭 I’m currently working on [Fox Home](https://github.com/eidiinnn/Home-page)
+- 🔭 I’m currently working on [Fox Home Server]([https://github.com/eidiinnn/Home-page](https://github.com/eidiinnn/Fox-home-server))
 - 🌱 I’m currently learning **TypeScript**  
 - 💬 Ask me about **JavaScript** 
 - 📫 How to reach me **eduardosilva.pn@gmail.com**
