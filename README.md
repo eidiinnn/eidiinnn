@@ -1,6 +1,6 @@
 ### Just a dev
-- 🔭 I’m currently working on [Fox Home Server](https://github.com/eidiinnn/Fox-home-server/)
-- 🌱 I’m currently learning **TypeScript**  
+- 🔭 I’m currently working on [Open Workspace](https://github.com/eidiinnn/workspace-open)
+- 🌱 I’m currently learning **Electron**  
 - 💬 Ask me about **JavaScript** 
 - 📫 How to reach me **eduardosilva.pn@gmail.com**
 
