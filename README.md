@@ -1,5 +1,4 @@
 ### Just a dev
-- 🔭 I’m currently working on [Open Workspace](https://github.com/eidiinnn/workspace-open)
 - 🌱 I’m currently learning **Rust**  
 - 💬 Ask me about **JavaScript** 
 - 📫 How to reach me **eduardosilva.pn@gmail.com**
